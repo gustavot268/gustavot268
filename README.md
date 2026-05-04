@@ -3,16 +3,6 @@
 **`Desenvolvedor Frontend`**
 
 Me chamo Gustavo Novaes Tavares, tenho 22 anos, sou Estudante do quarto período de Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá, com o curso complementar "Curso.dev" e "EBAC - Desenvolvedor frontend" estou em transição para a área de Tecnologia da Informação, com foco em Desenvolvimento Web Tenho base em JavaScript, Node.js, HTML e CSS, aplicadas em projetos práticos e atividades acadêmicas, com foco em lógica de programação, organização de código e resolução de problemas. Possuo familiaridade com uso de sistemas, registro e tratamento de informações, além de versionamento com Git.
-    
-</a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -76,35 +66,11 @@ Me chamo Gustavo Novaes Tavares, tenho 22 anos, sou Estudante do quarto período
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
