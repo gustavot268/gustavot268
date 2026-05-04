@@ -3,29 +3,6 @@
 **`Desenvolvedor Frontend`**
 
 Me chamo Gustavo Novaes Tavares, tenho 22 anos, sou Estudante do quarto período de Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá, com o curso complementar "Curso.dev" e "EBAC - Desenvolvedor frontend" estou em transição para a área de Tecnologia da Informação, com foco em Desenvolvimento Web Tenho base em JavaScript, Node.js, HTML e CSS, aplicadas em projetos práticos e atividades acadêmicas, com foco em lógica de programação, organização de código e resolução de problemas. Possuo familiaridade com uso de sistemas, registro e tratamento de informações, além de versionamento com Git.
-
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
